@@ -1,0 +1,19 @@
+{
+    "name": "juandelatorre/bienes-raicespoo_php_inicio",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cristian Beriguete",
+            "email": "Cristian.bq01@hotmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    }
+}
